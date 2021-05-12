@@ -36,3 +36,65 @@
     transform: rotate(360deg);
   }
 }
+
+.navApp {
+  background-color:#9b9b9b;
+}
+
+.card-body {
+  background-color: #cce7f7;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(233, 148, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pgraph {
+  font-size: 20px;
+}
+
+.container {
+  background-color:#9b9b9b;
+  text-align:left;
+}
+
+.containerTwo {
+  background-color:#9b9b9b;
+  text-align:center;
+}
+
+
+.work {
+  box-shadow: 7px 7px 5px rgb(92, 91, 91);
+  background-color: rgb(71, 81, 85);
+  color: #cce7f7;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(233, 148, 0);
+}
+
+.work:hover {
+  transform: scale(1.1);
+}
+
+.portfolioApp {
+  background-color: #9b9b9b;
+}
+
+.aboutApp {
+  background-color: #9b9b9b;
+}
+
+.body {
+  background-color:#9b9b9b;
+}
+
+.card-header {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#pic {
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(233, 148, 0);
+}
