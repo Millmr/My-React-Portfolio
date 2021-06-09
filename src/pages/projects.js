@@ -27,7 +27,8 @@ const projects = () => {
                                 <p className="card-text">Random Password Generator</p>
                                 <p id="repo"><a href="https://millmr.github.io/Random-Password-Generator/" style={{ color: '#FFF' }}>Try it out Here!</a></p>
                             </div>
-                            <div className="col-md-1"></div>
+                            <br></br>
+                            <div className="col-md-2"></div>
                             <div className="col-md-3 work">
                                 <a href="https://github.com/Millmr/Work-Day-Scheduler">
                                     <img src={WDS}
@@ -52,7 +53,7 @@ const projects = () => {
                                 <p id="repo"><a href="https://millmr.github.io/weather-dashboard/"
                                 style={{ color: '#FFF' }}>Try it out Here!</a></p>
                             </div>
-                            <div className="col-md-1"></div>
+                            <div className="col-md-2"></div>
                             <div className="col-md-3 work">
                                 <a href="https://fathomless-citadel-02367.herokuapp.com/">
                                     <img src={Experience}
@@ -78,7 +79,8 @@ const projects = () => {
                                 <p id="repo"><a href="https://still-mesa-96786.herokuapp.com/"
                                 style={{ color: '#FFF' }}>Try it out Here!</a></p>
                             </div>
-                            <div className="col-md-1"></div>
+                            <div className="col-md-2"></div>
+                            
                             <div className="col-md-3 work">
                                 <a href="https://github.com/Millmr/Employee-Find">
                                     <img src={EmployeeFind}

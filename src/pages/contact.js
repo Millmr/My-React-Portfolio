@@ -16,7 +16,7 @@ const Contact = () => {
                             <div className="gitProfile">
                                 <p>GitHub Profile: <a href="https://github.com/Millmr">
                                 Click to see!</a> </p>
-                                <p>Linkedin Profile: <a href="https://www.linkedin.com/feed/?trk=opento_lp"
+                                <p>Linkedin Profile: <a href="https://www.linkedin.com/in/matthew-miller-9884a720a/"
                                 >Connect with me on Linkedin!</a></p>
                                 <p>Email Address: matt.r.miller09@gmail.com</p>
                                 <p>Phone Number:(515)249-7049</p>

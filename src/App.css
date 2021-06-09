@@ -98,3 +98,12 @@
   border-style: solid;
   border-color: rgb(233, 148, 0);
 }
+
+.skills {
+  margin: 2rem;
+  padding: 2rem;
+  border-width: 3px;
+  border-style: solid;
+  border-color: rgb(233, 148, 0);
+  background-color: white;
+}
